@@ -1,7 +1,7 @@
 <?php 
 $name = "Ravindra Kumar";
 echo $name;
-echo "</br>";
+echo "<br>";
 $color = "green";
 $newColor = "red";
 echo "<h2 style = 'color: $color'>Your name is $name</h2>";
